@@ -15,5 +15,6 @@ ${beforeCursor}
 ```
 
 用户的需求是：${selection}
+每一个Tasking生成一个测试
 
-请使用 @Test 开头编写你的代码块：
+请使用 @Test 开头编写你的代码块，并在开头注释Tasking描述

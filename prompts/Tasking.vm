@@ -1,5 +1,5 @@
 ---
-interaction: OutputFile
+interaction: ChatPanel
 ---
 
 ```user```
@@ -11,7 +11,7 @@ interaction: OutputFile
 - 采用 Given When Then 的书写格式，其中 When 中所代表系统行为。
 - 要考虑业务场景覆盖率，可能合并重复的测试场景。
 
-请严格按照以下的格式输出。
+请严格按照以下的格式并使用中文输出。
 
 示例如下：
 
